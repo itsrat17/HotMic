@@ -17,5 +17,5 @@ It listens, talks back, and sometimes roasts you.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/itsrat17/voice-assistant.git
-   cd voice-assistant
+   git clone https://github.com/itsrat17/HotMic
+   cd HotMic
